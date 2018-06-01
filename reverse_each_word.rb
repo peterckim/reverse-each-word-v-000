@@ -16,6 +16,6 @@ def reverse_each_word(input)
     word.reverse
   end
   
-  output_string = output.join(" ")
+  output_string = array.join(" ")
   return output_string
 end
